@@ -23,7 +23,7 @@ Make sure you have **Docker** and **Docker Compose** installed on your machine.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Projekt-PAI.git
+   git clone https://github.com/SamoilovVlad/Projekt-PAI.git
 2. Open the root directory of the project and run `docker-compose up --build` to start the project.
 3. After running the command, the app will be available at `localhost:8080`.
 
