@@ -90,7 +90,7 @@ const Cart = () => {
         <h3>Summary</h3>
         <p>Total: ${cartItems?.reduce((acc, item) => acc + item?.price * item?.count, 0).toFixed(2)}</p>
         <Link to={"/checkout"}>
-          <button>Proceed to Checkout</button>
+          <button>Proceed to Checkout </button>
         </Link>
       </div>
     </div>
