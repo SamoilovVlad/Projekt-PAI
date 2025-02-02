@@ -27,7 +27,7 @@ Make sure you have **Docker** and **Docker Compose** installed on your machine.
 2. Open the root directory of the project and run `docker-compose up --build` to start the project.
 3. After running the command, the app will be available at `localhost:8080`.
    
-You can authorise like admin: login: admin, password: admin123
+You can authorize like admin: login: admin, password: admin123
 Or like user: login: user, password: user123
 
 
